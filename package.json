@@ -1,0 +1,14 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "A bot that allows the user to get the latest Canvas notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
