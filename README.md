@@ -6,4 +6,5 @@ Students can get real-time information about their classes: get notified in Disc
 This is a work-in-progress. Please feel free to contribute, or to reach out!
 
 Email: <href link="micahrobinson93@gmail.com">micahrobinson93@gmail.com</href>
+
 Discord: Micah#2740
